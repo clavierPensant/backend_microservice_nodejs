@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuration de l'éditeur
+.vscode/
+.idea/
+
+# Environnement
+.env
+
+# Caches et fichiers temporaires
+*.tmp
+*.temp
+.DS_Store
+
+# Dépendances et binaires générés
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# Tests
+coverage/
+
+# Docker & CI/CD
+docker-compose.override.yml
+.env.local
+.env.test
+.env.*.local

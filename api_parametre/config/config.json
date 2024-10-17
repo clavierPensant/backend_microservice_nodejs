@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "gestion_gasa_parametre",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "models-path": "src/models" 
+
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "gestion_gasa_parametre",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "models-path": "src/models" 
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "gestion_gasa_parametre",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "models-path": "src/models" 
+  }
+}
